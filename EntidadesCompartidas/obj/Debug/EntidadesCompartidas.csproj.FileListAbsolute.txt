@@ -1,0 +1,21 @@
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

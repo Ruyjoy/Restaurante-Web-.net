@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Cliente.master.cs" Inherits="Cliente" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 313px;
+            height: 85px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+   
+      <table style="font-family:Arial">
+    <tr>
+        <td colspan="2" style="width:800px; height:80px; background-color:#99FFCC; 
+            text-align:center">
+            <h1 style="background-color: #FFFFFF">
+                <span 
+                    lang="ES-UY" style="font-size:14.0pt;color:green;
+mso-ansi-language:ES-UY"> &nbsp;</span><img alt="" class="style1" src="Logo/Logo/Logo.png" /></h1>
+            <p>
+                <asp:LinkButton ID="lbtnRelaizar" runat="server" 
+                    PostBackUrl="~/RealizarPedido.aspx"> Realizar Pedido</asp:LinkButton>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:LinkButton ID="lbtnListado" runat="server" 
+                    PostBackUrl="~/ListadoPedidosPendientes.aspx">Listado de Pedidos Pendientes</asp:LinkButton>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:LinkButton ID="lbtnSalir" runat="server" onclick="lbtnSalir_Click" 
+                    PostBackUrl="~/Default.aspx">Salir</asp:LinkButton>
+            </p>
+            <p>
+                <asp:Label ID="lblNombre" runat="server"></asp:Label>
+                <span lang="ES-UY" style="font-size:14.0pt;color:green;
+mso-ansi-language:ES-UY"><span style="mso-spacerun:yes">&nbsp;&nbsp;</span><o:p></o:p></span></p>
+        </td>
+    </tr>
+    <tr>
+
+        <td style="height:500px; background-color:#99CCFF; width:650px">
+                 <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color:#3399FF; text-align:center">
+            &nbsp;</td>
+    </tr>
+</table>
+
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,77 @@
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\2-2\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\06-02\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\06-02\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\3-3\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Jose\3-3\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Jose\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\01-06-17\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Joe\Desktop\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Nueva carpeta (3)\ProyectoFinal\ProyectoFinal2016\Persistencia\obj\Debug\Persistencia.pdb

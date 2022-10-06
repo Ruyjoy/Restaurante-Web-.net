@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<Pedido>
+  <xs:schema id="Pedido" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Pedido" msdata:IsDataSet="true" msdata:Locale="en-US">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Pedido">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Hora" type="xs:string" minOccurs="0" />
+                <xs:element name="CasaComida" type="xs:string" minOccurs="0" />
+                <xs:element name="Plato" type="xs:string" minOccurs="0" />
+                <xs:element name="Cantidad" type="xs:string" minOccurs="0" />
+                <xs:element name="DireccionEntrega" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Pedido>
+    <Hora>14:26</Hora>
+    <CasaComida>Minutas</CasaComida>
+    <Plato>Minutas</Plato>
+    <Cantidad>1</Cantidad>
+    <DireccionEntrega>Montevideo</DireccionEntrega>
+  </Pedido>
+  <Pedido>
+    <Hora>15:24</Hora>
+    <CasaComida>Internacional</CasaComida>
+    <Plato>Ramen</Plato>
+    <Cantidad>1</Cantidad>
+    <DireccionEntrega>Montevideo</DireccionEntrega>
+  </Pedido>
+  <Pedido>
+    <Hora>15:25</Hora>
+    <CasaComida>Parrilla</CasaComida>
+    <Plato>Parrilla</Plato>
+    <Cantidad>1</Cantidad>
+    <DireccionEntrega>Montevideo</DireccionEntrega>
+  </Pedido>
+</Pedido>

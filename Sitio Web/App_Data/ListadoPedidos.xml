@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Pedido>
+  <Pedido>
+    <Hora>14:26</Hora>
+    <CasaComida>Minutas</CasaComida>
+    <Plato>Minutas</Plato>
+    <Cantidad>1</Cantidad>
+    <DireccionEntrega>Montevideo</DireccionEntrega>
+  </Pedido>
+  <Pedido>
+    <Hora>15:24</Hora>
+    <CasaComida>Internacional</CasaComida>
+    <Plato>Ramen</Plato>
+    <Cantidad>1</Cantidad>
+    <DireccionEntrega>Montevideo</DireccionEntrega>
+  </Pedido>
+  <Pedido>
+    <Hora>15:25</Hora>
+    <CasaComida>Parrilla</CasaComida>
+    <Plato>Parrilla</Plato>
+    <Cantidad>1</Cantidad>
+    <DireccionEntrega>Montevideo</DireccionEntrega>
+  </Pedido>
+</Pedido>
